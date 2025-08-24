@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/af408256-6c36-4454-9586-709f6ca4b75b
+**URL**: [click here](https://stopwatch-canvas.lovable.app/)
 
 ## How can I edit this code?
 
