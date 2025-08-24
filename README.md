@@ -1,5 +1,5 @@
 # Stopwatch 
-
+A stopwatch is a timepiece designed specifically to measure the amount of time that elapses between its start and stop. Unlike regular clocks or wristwatches, a stopwatch doesn't display the current time but instead focuses on tracking elapsed time with high precision.
 
 ## 🌐 Live Demo
 
@@ -51,6 +51,6 @@ Open an issue or reach me at [kalpana150906@gmail.com] or
 
 ## 📜License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](./LICENCE) License.
 ### 🙏Huge thanks to everyone who tries it out and shares their suggestions!
 
